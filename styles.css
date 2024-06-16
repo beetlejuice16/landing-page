@@ -16,13 +16,21 @@
   display: flex;
   justify-content: space-between;
 }
+.header-container-right {
+  display: flex;
+  justify-content: space-evenly;
+}
 .hero-container {
   display: flex;
   justify-content: center;
   justify-content: space-evenly;
   gap: 16px;
 }
-.hero-item {
+.hero-image{
+    margin-right: 50px;
+}
+.hero-text {
+  margin-left: 50px;
   max-width: 500px;
   padding: 8px;
 }
