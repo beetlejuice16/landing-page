@@ -1,3 +1,8 @@
 .header{
+* {
+    font-family: Roboto;
+    outline: 2px solid red;
+    box-sizing: border-box;
+}
     background-color:#1f2937;
 }
