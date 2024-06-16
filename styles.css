@@ -1,8 +1,33 @@
-.header{
 * {
     font-family: Roboto;
     outline: 2px solid red;
     box-sizing: border-box;
 }
+.blue-background{
     background-color:#1f2937;
+}
+.quote-section{
+    color: #1f2937;
+    background-color: #e5e7eb;
+}
+.hero-container{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    gap: 16px;
+}
+.hero-item{
+    max-width: 500px;
+    padding: 8px;
+}
+.hero-main-text{
+    color: #f9faf8;
+    font-size: 48px; 
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+.hero-secondary-text{
+    color: #e5e7eb;
+    font-size: 18px; 
+    margin-top: 10px;
 }
