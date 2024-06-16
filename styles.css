@@ -10,6 +10,12 @@
     color: #1f2937;
     background-color: #e5e7eb;
 }
+.header-container{
+    color: #e5e7eb;
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+}
 .hero-container{
     display: flex;
     justify-content: center;
